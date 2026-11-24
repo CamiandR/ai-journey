@@ -9,4 +9,4 @@ Day 1: November 20,2026.
 ## Log
 - 2026-11-20 Create this repo. Plan defined: 25 hours/week for 12 months.
 - 2026-11-22 Took the EF SET (A1, 30/100).
-- 2026-11-23 Watch Andrej Karpathy's video and look for a way to understand the concept.
+- 2026-11-23: Watched Andrej Karpathy's video and looked for a way to understand the concept. English: speaking practice with AI coach, described my day.
